@@ -1,0 +1,120 @@
+File Path:
+C:\elec365workspace\assignment5\Data\Three_Bears.v1.txt
+File Path:
+C:\elec365workspace\assignment5\Data\Three_Bears.v2.txt
+
+Match: 		 File1: <1..15> 		 File2: <1..15>
+
+
+Mismatch: 	 File1: <16..18> 		 File2: <16..19>
+
+
+Match: 		 File1: <19..19> 		 File2: <20..20>
+
+
+Mismatch: 	 File1: <20..20> 		 File2: <21..21>
+
+
+Match: 		 File1: <21..21> 		 File2: <22..22>
+
+
+Mismatch: 	 File1: <22..22> 		 File2: <23..23>
+
+
+Match: 		 File1: <23..24> 		 File2: <24..25>
+
+
+Mismatch: 	 File1: <25..25> 		 File2: <26..26>
+
+
+Match: 		 File1: <26..31> 		 File2: <27..32>
+
+
+Mismatch: 	 File1: <32..32> 		 File2: <33..33>
+
+
+Match: 		 File1: <33..34> 		 File2: <34..35>
+
+
+Mismatch: 	 File1: <35..35> 		 File2: <36..37>
+
+
+Match: 		 File1: <36..39> 		 File2: <38..41>
+
+
+Mismatch: 	 File1: <40..41> 		 File2: <42..43>
+
+
+Match: 		 File1: <42..42> 		 File2: <44..44>
+
+
+Mismatch: 	 File1: <43..43> 		 File2: <45..45>
+
+
+Match: 		 File1: <44..51> 		 File2: <46..53>
+
+
+Mismatch: 	 File1: <52..52> 		 File2: <54..54>
+
+
+Match: 		 File1: <53..58> 		 File2: <55..60>
+
+
+Mismatch: 	 File1: <59..59> 		 File2: <61..61>
+
+
+Match: 		 File1: <60..72> 		 File2: <62..74>
+
+
+Mismatch: 	 File1: <73..74> 		 File2: <75..76>
+
+
+Match: 		 File1: <75..80> 		 File2: <77..82>
+
+
+Mismatch: 	 File1: <81..81> 		 File2: <83..83>
+
+
+Match: 		 File1: <82..86> 		 File2: <84..88>
+
+
+Mismatch: 	 File1: <87..88> 		 File2: <None>
+
+
+Match: 		 File1: <89..93> 		 File2: <89..93>
+
+
+Mismatch: 	 File1: <94..94> 		 File2: <94..94>
+
+
+Match: 		 File1: <95..100> 		 File2: <95..100>
+
+
+Mismatch: 	 File1: <101..101> 		 File2: <101..101>
+
+
+Match: 		 File1: <102..108> 		 File2: <102..108>
+
+
+Mismatch: 	 File1: <109..109> 		 File2: <109..109>
+
+
+Match: 		 File1: <110..115> 		 File2: <110..115>
+
+
+Mismatch: 	 File1: <116..116> 		 File2: <116..116>
+
+
+Match: 		 File1: <117..124> 		 File2: <117..124>
+
+
+Mismatch: 	 File1: <125..127> 		 File2: <125..127>
+
+
+Mismatch: 	 File1: <128..128> 		 File2: <None>
+
+
+Match: 		 File1: <129..130> 		 File2: <128..129>
+
+
+Mismatch: 	 File1: <None> 			 File2: <130..130>

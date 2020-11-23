@@ -1,0 +1,78 @@
+File Path:
+C:\elec365workspace\assignment5\Data\Dijkstra.py
+File Path:
+C:\elec365workspace\assignment5\Data\Dijkstra_py3.py
+
+Match: 		 File1: <1..2> 		 File2: <1..2>
+
+
+Mismatch: 	 File1: <3..3> 		 File2: <3..3>
+
+
+Match: 		 File1: <4..6> 		 File2: <4..6>
+
+
+Mismatch: 	 File1: <None> 		 File2: <7..7>
+
+
+Match: 		 File1: <7..9> 		 File2: <9..11>
+
+
+Mismatch: 	 File1: <10..11> 		 File2: <None>
+
+
+Match: 		 File1: <12..15> 		 File2: <12..15>
+
+
+Mismatch: 	 File1: <16..16> 		 File2: <16..16>
+
+
+Match: 		 File1: <17..33> 		 File2: <17..33>
+
+
+Mismatch: 	 File1: <34..35> 		 File2: <None>
+
+
+Match: 		 File1: <36..36> 		 File2: <34..34>
+
+
+Mismatch: 	  File1: <None> 		 File2: <35..35>
+
+
+Match: 		 File1: <37..61> 		 File2: <36..60>
+
+
+Mismatch: 	 File1: <62..65> 		 File2: <61..64>
+
+
+Match: 		 File1: <66..73> 		 File2: <65..72>
+
+
+Mismatch: 	 File1: <74..78> 		 File2: <73..77>
+
+
+Match: 		 File1: <79..89> 		 File2: <78..88>
+
+
+Mismatch: 	 File1: <90..90> 		 File2: <89..89>
+
+
+Match: 		 File1: <91..101> 		 File2: <90..100>
+
+
+Mismatch: 	 File1: <102..103> 		 File2: <101..102>
+
+
+Match: 		 File1: <104..104> 		 File2: <103..103>
+
+
+Mismatch: 	 File1: <105..105> 		 File2: <104..104>
+
+
+Match: 		 File1: <106..106> 		 File2: <105..105>
+
+
+Mismatch: 	 File1: <107..109> 		 File2: <106..108>
+
+
+Match: 		 File1: <None> 			 File2: <109..110>
